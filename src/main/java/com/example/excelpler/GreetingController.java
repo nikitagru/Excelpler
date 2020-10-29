@@ -23,6 +23,6 @@ public class GreetingController {
     }
 
     private String siteOut() {
-        return "This is out";
+        return "This is outt";
     }
 }
